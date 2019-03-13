@@ -1,4 +1,4 @@
-This folder contains the perturbation data of the SW-48 cell line and the scripts that were used to analyse it.
+This folder contains the perturbation data and dose response data of the SW-48 cell line and the scripts that were used to analyse it.
 
 First, run `process_data.py` to generate the response pattern from the raw data.
 The raw data can be plotted with the `plot_raw_data.py` and `plot_perturbation_comparison.py` scripts in the plotting folder.
